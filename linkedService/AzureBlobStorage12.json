@@ -1,0 +1,11 @@
+{
+	"name": "AzureBlobStorage12",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=dockerrgdiag447;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFEUC1SMy1URVNUXzQ3ZTlmZjg0LWIxOWYtNDQ1MS05MTg2LWZlZDAyZmQzMGM5ZSINCn0="
+		}
+	}
+}
